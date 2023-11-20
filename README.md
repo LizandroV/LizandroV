@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LizandroV
-- 👀 I’m interested in learn more about RPA and create solutions for simple things
-- 🌱 I’m currently learning WEB development, Python and SQL
-- 💞️ I’m looking to collaborate on Automation Projects and Server Management
+- 👀 I’m interested in learn more about RPA and create solutions everyday
+- 🌱 I’m currently learning WEB development, JavaScript, Python, C# and SQL
+- 💞️ I’m looking to collaborate on Automation Projects, Software Development and Server Management
 - 📫 How to reach me, mi email is lizandrovivanco16@gmail.com
 
 <!---
