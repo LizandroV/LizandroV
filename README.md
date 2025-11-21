@@ -49,6 +49,27 @@ Scripts and utilities developed for internal workflow improvements and data hand
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LizandroV&layout=compact)
 
 ---
+---
+
+# 📊 GitHub Stats & Activity
+
+### ⭐ General Stats
+![Lizandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LizandroV&show_icons=true&hide_border=false)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=LizandroV&hide_border=false)
+
+### 💬 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LizandroV&hide_border=false)
+
+### 🏆 Profile Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=LizandroV&theme=flat&no-frame=true&row=1)
+
+### 📚 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LizandroV&layout=compact&hide_border=false)
+
+---
+
 
 ## 🌐 Let's Connect
 
