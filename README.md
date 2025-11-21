@@ -42,18 +42,17 @@ Scripts and utilities developed for internal workflow improvements and data hand
 ---
 
 ## 📊 GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LizandroV)](https://github.com/LizandroV/github-readme-stats)
 
-![Lizandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lizanviv&show_icons=true&theme=default)
+![Lizandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LizandroV&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lizanviv&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LizandroV&layout=compact)
 
 ---
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_TO_YOUR_LINKEDIN)
-
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](LINK_TO_YOUR_TWITTER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lvivanco16/)
 
 ---
 
