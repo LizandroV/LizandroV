@@ -76,8 +76,7 @@ Scripts and utilities developed for internal workflow improvements and data hand
 <!-- COLUMNA DERECHA -->
 <td width="50%" align="center">
 
-  <!-- TOP LANGUAGES -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizandroV&theme=dark&hide_border=false&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizandroV&theme=dark&hide_border=false&layout=donut-vertical&langs_count=10" height="350px" />
 
 </td>
 
