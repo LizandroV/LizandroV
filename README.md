@@ -5,22 +5,21 @@ Hello, GitHub! 👋
 I'm **Lizandro**, an IT Analyst and Developer with a passion for building reliable, efficient solutions. I enjoy working with software that makes life simpler, and I’m always refining my skills the steady, traditional way—by learning, practicing, and building real things.
 
 <a href="https://github.com/LizandroV" target="_blank">
-<img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
 
-<a href="mailto:lizandro_131@hotmail.com" target="_blank">
-<img src="https://img.shields.io/badge/hotmail-%2300acee.svg?color=0078D4&style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="hotmail" style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/lvivanco16" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/lvivanco16" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+<a href="mailto:lizandrovivanco16@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 
 <a href="https://www.instagram.com/lizandrov16/" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%2300acee.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
-  
-</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -76,7 +75,7 @@ Scripts and utilities developed for internal workflow improvements and data hand
 <!-- COLUMNA DERECHA -->
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizandroV&theme=dark&hide_border=false&layout=donut-vertical&langs_count=10" height="350px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizandroV&theme=dark&hide_border=false&layout=compact&langs_count=10" width="350px" height="450px" />
 
 </td>
 
