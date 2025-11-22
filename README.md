@@ -5,16 +5,20 @@ Hello, GitHub! 👋
 I'm **Lizandro**, an IT Analyst and Developer with a passion for building reliable, efficient solutions. I enjoy working with software that makes life simpler, and I’m always refining my skills the steady, traditional way—by learning, practicing, and building real things.
 
 <a href="https://github.com/LizandroV" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+</a>
 
 <a href="mailto:lizandro_131@hotmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-<p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<img src="https://img.shields.io/badge/hotmail-%2300acee.svg?color=0078D4&style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="hotmail" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/lvivanco16" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/lizandrov16/" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%2300acee.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+</a>
   
 </p>
 ---
@@ -56,18 +60,27 @@ Scripts and utilities developed for internal workflow improvements and data hand
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
+
+<!-- COLUMNA IZQUIERDA -->
 <td width="50%" align="center">
+
+  <!-- GITHUB GENERAL STATS -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LizandroV&theme=dark&show_icons=true&count_private=true" />
+  <br><br>
+
+  <!-- STREAK STATS -->
+  <img title="LizandroV Streak" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=LizandroV&theme=dark&hide_border=false" />
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=LizandroV&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="LizandroV Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
 </td>
 
+<!-- COLUMNA DERECHA -->
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+  <!-- TOP LANGUAGES -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizandroV&theme=dark&hide_border=false&layout=compact&langs_count=10" />
+
+</td>
+
 </tr>
 </table>
 <!--- stats (end) -->
