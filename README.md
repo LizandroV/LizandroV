@@ -4,19 +4,19 @@ Hello, GitHub! 👋
 
 I'm **Lizandro**, an IT Analyst and Developer with a passion for building reliable, efficient solutions. I enjoy working with software that makes life simpler, and I’m always refining my skills the steady, traditional way—by learning, practicing, and building real things.
 
-<a href="https://github.com/LizandroV" target="_blank">
+<a href="https://github.com/LizandroV" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
 
-<a href="https://www.linkedin.com/in/lvivanco16" target="_blank">
+<a href="https://www.linkedin.com/in/lvivanco16" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 
-<a href="mailto:lizandrovivanco16@gmail.com" target="_blank">
+<a href="mailto:lizandrovivanco16@gmail.com" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 
-<a href="https://www.instagram.com/lizandrov16/" target="_blank">
+<a href="https://www.instagram.com/lizandrov16/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
 
